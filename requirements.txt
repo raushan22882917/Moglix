@@ -2,3 +2,4 @@ Flask
 rembg
 Pillow
 requests
+gunicorn
